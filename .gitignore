@@ -1,0 +1,16 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# macOS
+.DS_Store
+
+# Models / large files
+*.pt
+*.pth
+*.dylib

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+stable-baselines3
+pandas
+numpy
+ta
+matplotlib
+vectorbt
+httpx
